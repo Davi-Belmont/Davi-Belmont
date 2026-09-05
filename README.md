@@ -22,5 +22,5 @@ Possuo experiência acadêmica em conteúdos relacionados à análise e manipula
 -  Desenvolvendo projetos focados em **automação e pipelines de dados** em Python.
 
 ## Conecte-se comigo
-- Linkdin: https://www.linkedin.com/in/davi-mariano-belmont-360257357/
-- Gmail: davm.belmont@gmail.com
+* **LinkedIn:** [linkedin.com/in/davi-belmont](https://www.linkedin.com/in/davi-mariano-belmont-360257357/)
+* **E-mail:** [davm.belmont@gmail.com](mailto:davm.belmont@gmail.com)

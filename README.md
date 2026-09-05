@@ -21,7 +21,6 @@ Possuo experiência acadêmica em conteúdos relacionados à análise e manipula
 - 🐳 Praticando orquestração de microsserviços e ambientes de desenvolvimento isolados com **Docker**.
 - 🛠️ Desenvolvendo projetos focados em **automação e pipelines de dados** em Python.
 
----
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-mariano-belmont-360257357/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davm.belmont@gmail.com)

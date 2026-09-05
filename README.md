@@ -21,7 +21,6 @@ Possuo experiência acadêmica em conteúdos relacionados à análise e manipula
 -  Praticando orquestração de microsserviços e ambientes de desenvolvimento isolados com **Docker**.
 -  Desenvolvendo projetos focados em **automação e pipelines de dados** em Python.
 
----
 ## Conecte-se comigo
 - Linkdin: https://www.linkedin.com/in/davi-mariano-belmont-360257357/
 - Gmail: davm.belmont@gmail.com
